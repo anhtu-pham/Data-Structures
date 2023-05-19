@@ -1,7 +1,6 @@
 # Data-Structures
 ### 1. List
-Dynamic array and linked list.\
-(Note: for union method, NumLinkedList is used to make implementation efficient, and this method is used after NumLinkedList class is completed)
+Dynamic array and linked list.
 ### 2. Trees
 Binary Search Tree and AVL Tree.
 ### 3. Graphs
